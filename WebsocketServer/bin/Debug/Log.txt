@@ -1,0 +1,4 @@
+【2017-05-15 14:22:00】服务已在128.1.2.124:10000启动
+【2017-05-15 14:22:15】New Client 128.1.2.124:18542 connected,Current Client Total:1
+【2017-05-15 14:22:24】Sent Message:、、、 To 128.1.2.124:18542 ,totalClient:1 ,index:0
+【2017-05-15 14:22:26】Sent Message:45 To 128.1.2.124:18542 ,totalClient:1 ,index:0
